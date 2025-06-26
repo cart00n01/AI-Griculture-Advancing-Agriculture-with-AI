@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 *Let’s grow the future of agriculture together—with AI!*
 
 
-##How to run on your local host?
+# How to run on your local host?
 
 -Download PyCharm
 
